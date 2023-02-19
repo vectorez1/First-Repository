@@ -1,0 +1,13 @@
+*{
+    margin: 0%;
+}
+body{
+
+}
+.container{
+    margin: 0 auto;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+}
+
